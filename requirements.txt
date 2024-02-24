@@ -1,0 +1,7 @@
+django
+torch
+pytesseract
+pillow
+transformers
+opencv-python
+python-decouple
